@@ -15,6 +15,7 @@ namespace array_string
         }
         static void Main(string[] args)
         {
+            //....................
             //Console.WriteLine("\nМассивы\n");
             //var rnd = new Random();
             //int[] mas1 = new int[] { 1, 2, 3, 4, 5 };
